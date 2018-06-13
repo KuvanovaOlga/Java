@@ -1,0 +1,37 @@
+<schema xmlns="http://www.w3.org/2001/XMLSchema">
+    <element name="library">
+        <complexType>
+            <sequence>
+                <element name="student">
+                    <complexType>
+                        <attribute name="type_educ" type="TypeEduc"/>
+                        <attribute name="surname" type="string"/>
+                        <attribute name="course" type="int"/>
+                        <attribute name="makr" type="double"/>
+                    </complexType>
+                </element>
+
+                <element name="dekan">
+                    <complexType>
+                        <attribute name="name" type="string"/>
+                        <attribute name="author" type="string"/>
+                        <attribute name="year" type="int"/>
+                        <attribute name="number_of_pages" type="int"/>
+                        <attribute name="cost" type="int"/>
+                    </complexType>
+                </element>
+
+                <element name="magazine">
+                    <complexType>
+                        <attribute name="name" type="string"/>
+                        <attribute name="author" type="string"/>
+                        <attribute name="year" type="int"/>
+                        <attribute name="number_of_pages" type="int"/>
+                        <attribute name="cost" type="int"/>
+                        <attribute name="circulation" type="int"/>
+                    </complexType>
+                </element>
+            </sequence>
+        </complexType>
+    </element>
+</schema>

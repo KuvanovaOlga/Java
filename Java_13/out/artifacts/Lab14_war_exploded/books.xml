@@ -1,0 +1,13 @@
+<books>
+   <book>
+      <name>Harry Potter and the philosopher's stone</name>
+      <author>J.K.Rowling</author>
+      <price>452</price>
+   </book>
+   
+   <book>
+      <name>Harry Potter and the chamber of secrets</name>
+      <author>J.K.Rowling</author>
+      <price>399</price>
+   </book>
+</books>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="gfwar">
+    <output-path>$PROJECT_DIR$/out/artifacts/gfwar</output-path>
+    <root id="archive" name="gfwar.war">
+      <element id="artifact" artifact-name="GlassFish:war exploded" />
+    </root>
+  </artifact>
+</component>
