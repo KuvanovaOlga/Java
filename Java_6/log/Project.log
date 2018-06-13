@@ -1,0 +1,11 @@
+30.03.2018 15:31:12 [main] INFO  com.company.Main  - Start Sax parsing
+30.03.2018 15:31:12 [main] INFO  com.company.Main  - Transform XML to HTML
+30.03.2018 15:48:00 [main] INFO  com.company.Main  - Start Sax parsing
+30.03.2018 15:48:01 [main] INFO  com.company.Main  - Transform XML to HTML
+30.03.2018 15:49:15 [main] INFO  com.company.Main  - Start Sax parsing
+30.03.2018 15:49:15 [main] INFO  com.company.Main  - Transform XML to HTML
+30.03.2018 15:49:35 [main] INFO  com.company.Main  - Start Sax parsing
+30.03.2018 15:49:35 [main] INFO  com.company.Main  - Transform XML to HTML
+30.03.2018 15:49:36 [main] ERROR parser.ValidatorSAX  - files/info.xml SAX error cvc-complex-type.3.2.2: Attribute 'name0' is not allowed to appear in element 'library'.
+30.03.2018 15:56:58 [main] INFO  com.company.Main  - Start Sax parsing
+30.03.2018 15:56:59 [main] INFO  com.company.Main  - Transform XML to HTML

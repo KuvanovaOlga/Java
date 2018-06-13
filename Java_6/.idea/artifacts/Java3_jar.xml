@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Java3:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Java3_jar</output-path>
+    <root id="archive" name="Java3.jar">
+      <element id="module-output" name="Java3" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Lab5/lib/gson-2.2.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/log4j-1.2.17.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

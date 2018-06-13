@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="9.0.1" class="java.beans.XMLDecoder">
+ <object class="booklet.Booklet">
+  <void property="author">
+   <string>lalala</string>
+  </void>
+  <void property="name">
+   <string>lalala</string>
+  </void>
+  <void property="number_of_pages">
+   <int>24</int>
+  </void>
+  <void property="year">
+   <int>1234</int>
+  </void>
+ </object>
+</java>

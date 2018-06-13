@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="XSD.xsd" name0="lalala">
+  <!--  <book name2="lalala" author2="kuku" year2="1234" number_of_pages2="24" cost2="56" UDK="1234" publ = "qwerty" type = "science"></book>
+
+
+    <magazine name3="lalala" author3="kuku" year3="1234" number_of_pages3="24" cost3="56" circulation="500"></magazine>-->
+    <booklet name1="lalala" author1="kuku" year1="1234" number_of_pages1="24" cost1="56"></booklet>
+    <booklet name1="lalala" author1="kuku" year1="1234" number_of_pages1="24" cost1="56"></booklet>
+    <booklet name1="lalala" author1="kuku" year1="1234" number_of_pages1="24" cost1="56"></booklet>
+</library>

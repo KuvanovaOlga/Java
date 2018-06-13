@@ -1,0 +1,23 @@
+/*LOG.info("Start Program___________");
+            Librarian lib = Librarian.getInstance();
+            Library lib1 = lib.create("september");
+
+            lib1.AddEdition(new Book("Onegin", "Pushkin", 1824, 300, 40, 12345, "Publhouse",Type.PHANTASY));
+            lib1.AddEdition(new Book("Math", "Lova", 2016, 1000, 15, 1237, "Publbstu", Type.PHANTASY));
+            lib1.AddEdition(new Booklet("Restarans", "Piko", 2017, 300, 25));
+            lib1.AddEdition(new Magazine("SB", "Lykash", 56, 2018,8,10000));
+            System.out.println("Total cost of library1: " + lib.totalcost(lib1));
+            lib.sort(lib1);
+            LOG.info("Sorting by year");
+            System.out.println("Sort library1: ");
+            for(Edition ed : lib1.GetLibrary())
+            {
+                System.out.println(ed.toString());
+            }
+
+            System.out.println("Book(300) in library1: ");
+            for(Edition ed : lib.find(lib1, 300).GetLibrary()) {
+                System.out.println(ed.toString());
+            }
+
+            LOG.info("End Program___________");*/

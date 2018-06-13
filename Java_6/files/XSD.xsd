@@ -1,0 +1,39 @@
+<schema xmlns="http://www.w3.org/2001/XMLSchema">
+<element name="library">
+    <complexType>
+        <sequence>
+            <element name="booklet">
+                <complexType>
+                    <attribute name="name" type="string"/>
+                    <attribute name="author" type="string"/>
+                    <attribute name="year" type="int"/>
+                    <attribute name="number_of_pages" type="int"/>
+                    <attribute name="cost" type="int"/>
+                </complexType>
+            </element>
+            <element name="book">
+                <complexType>
+                    <attribute name="name" type="string"/>
+                    <attribute name="author" type="string"/>
+                    <attribute name="year" type="int"/>
+                    <attribute name="number_of_pages" type="int"/>
+                    <attribute name="cost" type="int"/>
+                    <attribute name="UDK" type="int"/>
+                    <attribute name="publ" type="string"/>
+                    <attribute name="type" type="string"/>
+                </complexType>
+            </element>
+            <element name="magazine">
+                <complexType>
+                    <attribute name="name" type="string"/>
+                    <attribute name="author" type="string"/>
+                    <attribute name="year" type="int"/>
+                    <attribute name="number_of_pages" type="int"/>
+                    <attribute name="cost" type="int"/>
+                    <attribute name="circulation" type="int"/>
+                </complexType>
+            </element>
+        </sequence>
+    </complexType>
+</element>
+</schema>
