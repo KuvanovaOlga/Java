@@ -5,7 +5,7 @@
     <title>Title</title>
 </head>
 <body>
-<h1>Bazil FIT 2-4</h1>
+<h1>Kuvanova FIT 2-6</h1>
 <br>
 <form action="First">
     <input type ="SUBMIT" value="GET">

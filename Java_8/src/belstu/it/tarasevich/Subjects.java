@@ -1,4 +1,4 @@
-package belstu.it.kuvanova;
+package belstu.it.tarasevich;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package belstu.it.kuvanova;
+package belstu.it.tarasevich;
 
 import java.sql.*;
 import java.util.List;
@@ -44,15 +44,13 @@ public class Main
             try
             {
                 System.out.println(((DaoSubject) subjectDao).getSubj("wen"));
-                ((DaoSubject) subjectDao).updateDayName("wun");
+                ((DaoSubject) subjectDao).updateDayName("sss");
                 con.commit();
             }
             catch (Exception ex)
             {
                 System.out.println("roll");
-
                 con.rollback();
-
                 System.out.println(ex.getMessage());
             }
             System.out.println("After");

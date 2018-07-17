@@ -1,4 +1,4 @@
-package rabtsevich;
+package kuvanova;
 
 /**
  * Hello world!

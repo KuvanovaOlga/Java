@@ -16,8 +16,8 @@ public class Servlet2 extends HttpServlet {
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         //response.setContentType("text/html");
-       request.getRequestDispatcher("Third.jsp").forward(request,response);
-       response.sendRedirect("Third.jsp");
+       request.getRequestDispatcher("Third.jsp").forward(request,response); //перенаправление
+       response.sendRedirect("Third.jsp"); //переадресация
 
     }
 }
